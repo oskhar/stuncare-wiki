@@ -53,6 +53,48 @@ Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memilik
 - Tahap III – Pengembangan Ekosistem dan Program Edukasi Nasional
 - Tahap IV – Ekspansi Layanan di Wilayah Baru Berdasarkan Dampak
 
+%%{
+init: {
+"gantt": {
+'topPadding' :100,
+'rightPadding' :100,
+'leftPadding' :100,
+'barHeight' :50,
+'fontSize' :17,
+'titleTopMargin': 75,
+'gridLineStartPadding' : 48,
+'barGap' :10,
+'sectionFontSize': 16
+},
+'theme': 'base',
+'themeVariables': {
+"fontFamily": 'Sans-Serif',
+'primaryColor': '#bcc8ff',
+'primaryTextColor': '#000',
+'primaryBorderColor': '#2d2ac9',
+'tertiaryColor': '#000',
+'textColor':'#000',
+'tertiaryTextColor': '#000'
+}
+}
+}%%
+
+%% https://mermaid.js.org/config/directives.html#declaring-directives
+%% https://mermaid.js.org/config/schema-docs/config-defs-gantt-diagram-config.html#toppadding
+
+%% color theme need opened with the high contrast light theme.
+
+gantt
+title changed title
+dateFormat MM
+axisFormat %B
+section Task 1
+Do Task 1 :task1, 01, 91d
+section Task 2
+Do Task 2 :task2, 02, 60d
+section Task 3
+create chart :task3, 05, 30d
+
 ## 🌍 Rencana Ekspansi dan Dampak
 
 Melalui "Stuncare" kami berkomitmen untuk mencapai hasil yang nyata di seluruh wilayah Indonesia. Dengan teknologi mutakhir dan pendekatan kolaboratif, kami bertujuan untuk mempengaruhi kehidupan jutaan anak-anak dan keluarga di seluruh pelosok negeri.
