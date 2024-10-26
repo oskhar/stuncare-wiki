@@ -1,3 +1,5 @@
+![Banner](./assets/banner.png)
+
 # 🌱 Stuncare – Solusi Komprehensif untuk Menurunkan Tingkat Stunting di Indonesia
 
 ### 🎯 Misi Kami Menurunkan Tingkat Stunting Secara Berkelanjutan
