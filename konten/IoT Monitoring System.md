@@ -1,3 +1,5 @@
+[**<<< Kembali**](../README.md)
+
 # 🌐 Sistem Pemantauan Pintar untuk Tinggi dan Lingkar Kepala Balita 🌐
 
 ## 📖 Pengantar
@@ -130,3 +132,5 @@ Sistem ini menyediakan data real-time untuk tenaga kesehatan, yang memungkinkan 
 ## 🎯 Kesimpulan dan Rekomendasi
 
 Kedua jalur ini menawarkan pendekatan yang berbeda dalam pengukuran dan pemantauan kesehatan balita. Jalur _Computer Vision_ cocok untuk aplikasi yang lebih fleksibel dan terjangkau, ideal bagi keluarga atau klinik kecil yang membutuhkan solusi tanpa kontak. Sementara itu, jalur _Smart Scale IoT_ memberikan akurasi tinggi yang sangat tepat untuk penggunaan klinis dengan kebutuhan data yang detail.
+
+[**<<< Kembali**](../README.md)
