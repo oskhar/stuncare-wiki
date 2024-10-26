@@ -25,19 +25,19 @@ Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memilik
 
 #### Smart IoT Monitoring System 🌐
 
-Sistem penimbangan dan pengukuran digital berbasis IoT ini dirancang untuk memantau berat dan tinggi badan balita secara otomatis dan akurat, menyimpan data langsung di aplikasi guna mengurangi risiko kesalahan. Selain itu, sistem ini dilengkapi sensor tambahan, seperti untuk suhu dan kadar hemoglobin, membantu deteksi dini risiko kesehatan. Data yang dikumpulkan secara real-time juga langsung tersimpan di cloud untuk memudahkan pemantauan perkembangan anak dan deteksi risiko stunting secara cepat. [selengkapnya..](./konten/IoT%20Monitoring%20System.md)
+Sistem penimbangan dan pengukuran digital berbasis IoT ini dirancang untuk memantau berat dan tinggi badan balita secara otomatis dan akurat, menyimpan data langsung di aplikasi guna mengurangi risiko kesalahan. Selain itu, sistem ini dilengkapi sensor tambahan, seperti untuk suhu dan kadar hemoglobin, membantu deteksi dini risiko kesehatan. Data yang dikumpulkan secara real-time juga langsung tersimpan di cloud untuk memudahkan pemantauan perkembangan anak dan deteksi risiko stunting secara cepat [selengkapnya..](./konten/IoT%20Monitoring%20System.md)
 
 #### Dashboard & Web App Berbasis Z-Score WHO 📊
 
-Melalui heat map regional, wilayah dengan risiko stunting tinggi dapat teridentifikasi untuk memprioritaskan sumber daya. Sistem juga menggunakan Z-Score WHO untuk memetakan data balita, membantu dalam analisis dan pemantauan status kesehatan anak. Dengan sistem prediktif AI, risiko stunting dapat diprediksi untuk memungkinkan intervensi yang lebih preventif. [selengkapnya..](./konten/Dashboard%20Pemantauan.md)
+Melalui heat map regional, wilayah dengan risiko stunting tinggi dapat teridentifikasi untuk memprioritaskan sumber daya. Sistem juga menggunakan Z-Score WHO untuk memetakan data balita, membantu dalam analisis dan pemantauan status kesehatan anak. Dengan sistem prediktif AI, risiko stunting dapat diprediksi untuk memungkinkan intervensi yang lebih preventif [selengkapnya..](./konten/Dashboard%20Pemantauan.md)
 
 #### Sistem Intervensi & Edukasi Berbasis AI 📱
 
-Platform ini menawarkan rekomendasi nutrisi yang disesuaikan secara real-time sesuai kebutuhan anak, ditambah dengan modul edukasi interaktif dalam bentuk video dan infografik untuk orang tua. Fitur konsultasi online memungkinkan akses langsung ke tenaga kesehatan untuk rekomendasi gizi yang tepat. [selengkapnya..](linkmd)
+Platform ini menawarkan rekomendasi nutrisi yang disesuaikan secara real-time sesuai kebutuhan anak, ditambah dengan modul edukasi interaktif dalam bentuk video dan infografik untuk orang tua. Fitur konsultasi online memungkinkan akses langsung ke tenaga kesehatan untuk rekomendasi gizi yang tepat [selengkapnya..](linkmd)
 
 #### Evaluasi Efektivitas dan Feedback Berkelanjutan 📈
 
-Sistem ini menyediakan laporan dan evaluasi berkala untuk memantau perkembangan anak dan efektivitas intervensi. Kolaborasi komunitas juga didorong dengan feedback loop yang memungkinkan masukan langsung dari orang tua tentang layanan kesehatan di komunitas setempat. [selengkapnya..](linkmd)
+Sistem ini menyediakan laporan dan evaluasi berkala untuk memantau perkembangan anak dan efektivitas intervensi. Kolaborasi komunitas juga didorong dengan feedback loop yang memungkinkan masukan langsung dari orang tua tentang layanan kesehatan di komunitas setempat [selengkapnya..](linkmd)
 
 ## 🚀 Peta Jalan Implementasi
 
