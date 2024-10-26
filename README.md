@@ -1,13 +1,13 @@
 # 🌱 Stuncare – Solusi Komprehensif untuk Menurunkan Tingkat Stunting di Indonesia
 
-### 🎯 Misi Kami: Menurunkan Tingkat Stunting Secara Berkelanjutan
+### 🎯 Misi Kami Menurunkan Tingkat Stunting Secara Berkelanjutan
 
 Stuncare hadir dengan satu tujuan utama **menurunkan tingkat stunting di Indonesia** melalui pendekatan berbasis teknologi IoT dan kecerdasan buatan. Dengan inovasi ini, kami mengembangkan platform holistik yang memungkinkan pemantauan kesehatan anak secara real-time, intervensi nutrisi yang akurat, serta perencanaan kebijakan berbasis data untuk menciptakan masa depan yang lebih sehat bagi generasi mendatang.
 
 ## 📑 Daftar Isi
 
 - [Pengantar](#-pengantar)
-- [Layanan & Fitur Utama](#-layanan--fitur-utama)
+- [Layanan & Fitur Utama](#️-layanan--fitur-utama)
 - [Peta Jalan Implementasi](#-peta-jalan-implementasi)
 - [Rencana Ekspansi dan Dampak](#-rencana-ekspansi-dan-dampak)
 - [Dokumentasi Teknis](#-dokumentasi-teknis)
@@ -62,7 +62,7 @@ Melalui "Stuncare" kami berkomitmen untuk mencapai hasil yang nyata di seluruh w
 
 ## 📖 Dokumentasi Teknis
 
-- [Panduan Pengguna IoT Monitoring System](./Teknis/Panduan%20Pengguna%20IoT%20Monitoring%20System.md)
+- [Panduan Pengguna IoT Monitoring System](./konten/IoT%20Monitoring%20System.md)
 - [Dokumentasi API dan Integrasi Data](link_dokumentasi)
 - [Protokol Keamanan Data](link_protokol)
 - [Panduan Dashboard Z-Score dan Prediktif AI](link_dashboard)
