@@ -63,7 +63,7 @@ Melalui "Stuncare" kami berkomitmen untuk mencapai hasil yang nyata di seluruh w
 ## 📖 Dokumentasi Teknis
 
 - [Panduan Pengguna IoT Monitoring System](./konten/IoT%20Monitoring%20System.md)
-- [Dokumentasi API dan Integrasi Data](link_dokumentasi)
+- [Dokumentasi API dan Integrasi Data](./konten/Dashboard%20Pemantauan.md)
 - [Protokol Keamanan Data](link_protokol)
 - [Panduan Dashboard Z-Score dan Prediktif AI](link_dashboard)
 
