@@ -23,25 +23,25 @@ Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memilik
 
 ## 🛠️ Layanan & Fitur Utama
 
-### 1. Smart IoT Monitoring System 🌐
+##### 1. Smart IoT Monitoring System 🌐
 
 - Penimbangan dan Pengukuran Pintar. Alat timbang digital dengan sensor IoT untuk mengukur berat dan tinggi badan balita. Data otomatis tersimpan di aplikasi untuk mengurangi risiko kesalahan.
 - Data Enrichment. Sensor tambahan, seperti suhu dan kadar hemoglobin, untuk deteksi dini risiko kesehatan.
 - Sinkronisasi Data Real-time. Setiap data terkirim ke cloud, memudahkan pemantauan perkembangan anak dan identifikasi risiko stunting.
 
-### 2. Dashboard & Web App Berbasis Z-Score WHO 📊
+##### 2. Dashboard & Web App Berbasis Z-Score WHO 📊
 
 - Heat Map Regional. Visualisasi wilayah dengan risiko stunting tertinggi untuk penentuan alokasi sumber daya.
 - Z-Score Analytics. Data balita dipetakan berdasarkan parameter WHO, membantu pemantauan dan analisis status kesehatan anak.
 - Sistem Prediktif AI. Prediksi risiko stunting di masa depan untuk intervensi preventif yang efektif.
 
-### 3. Sistem Intervensi & Edukasi Berbasis AI 📱
+##### 3. Sistem Intervensi & Edukasi Berbasis AI 📱
 
 - Rekomendasi Nutrisi Real-time. Panduan nutrisi yang disesuaikan secara otomatis sesuai kebutuhan anak.
 - Modul Edukasi Interaktif. Konten edukatif dalam bentuk video dan infografik bagi orang tua.
 - Konsultasi Gizi & Kesehatan Online. Konsultasi langsung dengan tenaga kesehatan untuk rekomendasi yang spesifik.
 
-### 4. Evaluasi Efektivitas dan Feedback Berkelanjutan 📈
+##### 4. Evaluasi Efektivitas dan Feedback Berkelanjutan 📈
 
 - Pelaporan & Evaluasi Berkala. Pemantauan berkelanjutan terhadap perkembangan anak untuk menilai efektivitas intervensi.
 - Feedback Loop Berbasis Komunitas. Kolaborasi komunitas dan masukan dari orang tua tentang layanan kesehatan setempat.
@@ -52,48 +52,6 @@ Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memilik
 - Tahap II – Integrasi Sistem Regional dan Pelatihan Tenaga Kesehatan
 - Tahap III – Pengembangan Ekosistem dan Program Edukasi Nasional
 - Tahap IV – Ekspansi Layanan di Wilayah Baru Berdasarkan Dampak
-
-%%{
-init: {
-"gantt": {
-'topPadding' :100,
-'rightPadding' :100,
-'leftPadding' :100,
-'barHeight' :50,
-'fontSize' :17,
-'titleTopMargin': 75,
-'gridLineStartPadding' : 48,
-'barGap' :10,
-'sectionFontSize': 16
-},
-'theme': 'base',
-'themeVariables': {
-"fontFamily": 'Sans-Serif',
-'primaryColor': '#bcc8ff',
-'primaryTextColor': '#000',
-'primaryBorderColor': '#2d2ac9',
-'tertiaryColor': '#000',
-'textColor':'#000',
-'tertiaryTextColor': '#000'
-}
-}
-}%%
-
-%% https://mermaid.js.org/config/directives.html#declaring-directives
-%% https://mermaid.js.org/config/schema-docs/config-defs-gantt-diagram-config.html#toppadding
-
-%% color theme need opened with the high contrast light theme.
-
-gantt
-title changed title
-dateFormat MM
-axisFormat %B
-section Task 1
-Do Task 1 :task1, 01, 91d
-section Task 2
-Do Task 2 :task2, 02, 60d
-section Task 3
-create chart :task3, 05, 30d
 
 ## 🌍 Rencana Ekspansi dan Dampak
 
