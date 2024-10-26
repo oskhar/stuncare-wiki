@@ -1,4 +1,6 @@
-# 🌐 Wiki Dokumentasi: Dashboard & Web App Berbasis Z-Score WHO dengan Heat Map dan Sistem Prediktif AI untuk Pemantauan Stunting Balita 🌐
+[**<<< Kembali**](../README.md)
+
+# 🌐 Dashboard & Web App Berbasis Z-Score WHO dengan Heat Map dan Sistem Prediktif AI untuk Pemantauan Stunting Balita 🌐
 
 ## 📖 Pengantar
 
@@ -144,3 +146,5 @@ Aplikasi berbasis web ini bisa diakses oleh orang tua, memberikan mereka akses t
 ## 🎯 Kesimpulan dan Rekomendasi
 
 Dashboard & Web App Berbasis Z-Score WHO dengan Heat Map dan AI ini menawarkan solusi menyeluruh dalam pemantauan kesehatan balita, khususnya dalam upaya penanggulangan stunting. Dengan teknologi visualisasi, analisis berbasis data, dan prediksi AI, sistem ini mampu memberikan panduan bagi pemerintah, tenaga kesehatan, dan orang tua dalam mendeteksi risiko stunting sedini mungkin.
+
+[**<<< Kembali**](../README.md)

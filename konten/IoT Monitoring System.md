@@ -16,11 +16,11 @@ Sistem pemantauan kesehatan balita yang terotomatisasi merupakan terobosan dalam
 
 ## ⚙️ Bagian 1: Jalur Utama - Computer Vision untuk Pengukuran Tinggi dan Lingkar Kepala
 
-##### 📏 Deskripsi Teknologi Computer Vision dalam Pengukuran Kesehatan
+#### 📏 Deskripsi Teknologi Computer Vision dalam Pengukuran Kesehatan
 
 _Computer Vision_ merupakan teknologi berbasis pengolahan gambar yang mampu mengidentifikasi, melacak, dan mengukur objek secara otomatis. Dalam konteks pemantauan kesehatan balita, _Computer Vision_ memanfaatkan algoritma yang memproses data visual dari kamera untuk mengukur tinggi dan lingkar kepala dengan akurasi tinggi.
 
-##### 1. Teknologi dan Algoritma Utama yang Digunakan
+#### 1. Teknologi dan Algoritma Utama yang Digunakan
 
 - Pengenalan dan Pelacakan Titik Tubuh  
   Teknologi seperti _OpenPose_ atau _MediaPipe_ memungkinkan pengenalan titik-titik tubuh (misalnya, kepala, bahu, dan dagu) yang dapat digunakan untuk pengukuran tinggi. Dengan pelacakan real-time, sistem dapat menghitung tinggi badan berdasarkan perbandingan dengan objek referensi yang diketahui.
@@ -31,7 +31,7 @@ _Computer Vision_ merupakan teknologi berbasis pengolahan gambar yang mampu meng
 - Kalibrasi Berbasis Ruang dan Skala  
   Sebelum pengukuran, ruang harus dikalibrasi untuk mendapatkan referensi skala. Hal ini bisa dilakukan dengan objek standar yang ukurannya diketahui (misalnya, penggaris) di dalam area gambar.
 
-##### 2. Proses Implementasi Computer Vision dalam Pengukuran Tinggi dan Lingkar Kepala
+#### 2. Proses Implementasi Computer Vision dalam Pengukuran Tinggi dan Lingkar Kepala
 
 - Tahap 1: Pengambilan Gambar atau Video Balita  
   Kamera yang terhubung ke sistem akan menangkap gambar atau video balita. Pengambilan gambar ini dapat dilakukan di rumah atau pusat kesehatan dengan posisi tubuh balita yang tepat.
@@ -45,7 +45,7 @@ _Computer Vision_ merupakan teknologi berbasis pengolahan gambar yang mampu meng
 - Tahap 4: Penyimpanan dan Pengolahan Data  
   Data yang telah diukur langsung disimpan di cloud dan dapat diakses melalui aplikasi untuk pemantauan dan analisis kesehatan balita.
 
-##### 3. Keuntungan Utama Jalur Computer Vision
+#### 3. Keuntungan Utama Jalur Computer Vision
 
 - Tanpa Kontak Fisik. Menghilangkan kebutuhan perangkat yang menyentuh balita, sehingga lebih nyaman dan higienis.
 - Biaya Lebih Rendah. Hanya membutuhkan kamera standar dan aplikasi, mengurangi investasi pada perangkat fisik tambahan.
@@ -53,11 +53,11 @@ _Computer Vision_ merupakan teknologi berbasis pengolahan gambar yang mampu meng
 
 ## 🔄 Bagian 2: Jalur Alternatif - Smart Scale IoT untuk Pengukuran Berat, Tinggi, dan Data Kesehatan Lainnya
 
-##### 📏 Deskripsi Teknologi Smart Scale IoT
+#### 📏 Deskripsi Teknologi Smart Scale IoT
 
 _Smart Scale IoT_ adalah perangkat terhubung dengan sensor yang tidak hanya mengukur berat, tetapi juga tinggi, dan dapat dilengkapi dengan sensor tambahan untuk parameter kesehatan lain, seperti suhu tubuh dan kadar hemoglobin. Data dari alat ini terhubung langsung ke cloud, sehingga dapat diakses dan dipantau oleh tenaga kesehatan.
 
-##### 1. Teknologi dan Komponen Utama Smart Scale IoT
+#### 1. Teknologi dan Komponen Utama Smart Scale IoT
 
 - Sensor Berat dan Tinggi Badan  
   Sensor strain gauge digunakan untuk mengukur berat badan dengan presisi tinggi, sedangkan sensor ultrasonik atau inframerah digunakan untuk tinggi badan. Data ini langsung ditransfer ke aplikasi melalui konektivitas IoT.
@@ -65,7 +65,7 @@ _Smart Scale IoT_ adalah perangkat terhubung dengan sensor yang tidak hanya meng
 - Sensor Suhu dan Kadar Hemoglobin  
   Alat ini bisa dilengkapi dengan sensor tambahan seperti termokopel untuk suhu dan painless lancet untuk pengukuran hemoglobin melalui darah kapiler. Sensor tambahan ini memberikan data penting untuk deteksi dini kondisi kesehatan seperti anemia.
 
-##### 2. Proses Implementasi Smart Scale IoT
+#### 2. Proses Implementasi Smart Scale IoT
 
 - Tahap 1: Penimbangan dan Pengukuran Tinggi Badan  
   Balita ditempatkan pada alat timbang yang terhubung, yang kemudian melakukan pengukuran berat dan tinggi secara otomatis.
@@ -76,7 +76,7 @@ _Smart Scale IoT_ adalah perangkat terhubung dengan sensor yang tidak hanya meng
 - Tahap 3: Transfer dan Sinkronisasi Data  
   Data langsung ditransfer ke cloud menggunakan protokol MQTT atau BLE (Bluetooth Low Energy), yang memungkinkan pemantauan data secara real-time.
 
-##### 3. Keuntungan dan Keterbatasan Jalur Smart Scale IoT
+#### 3. Keuntungan dan Keterbatasan Jalur Smart Scale IoT
 
 - Keunggulan. Menghasilkan data yang sangat akurat untuk pengukuran berat dan tinggi, lebih cocok untuk lingkungan klinis dengan standar akurasi tinggi.
 - Keterbatasan. Memerlukan kontak fisik dan perangkat tambahan, sehingga membutuhkan biaya investasi lebih tinggi.
@@ -94,15 +94,15 @@ _Smart Scale IoT_ adalah perangkat terhubung dengan sensor yang tidak hanya meng
 
 ## 📈 Manfaat Bisnis dan Pengguna
 
-##### 1. Efisiensi Biaya dan Model Berlangganan
+#### 1. Efisiensi Biaya dan Model Berlangganan
 
 Jalur _Computer Vision_ menawarkan solusi yang lebih hemat biaya, cocok untuk pasar kesehatan individu atau klinik kecil. Perusahaan kesehatan dapat menawarkan layanan ini dalam bentuk langganan aplikasi yang memungkinkan akses data dan riwayat kesehatan balita.
 
-##### 2. Peningkatan Aksesibilitas Kesehatan
+#### 2. Peningkatan Aksesibilitas Kesehatan
 
 Dengan ketersediaan teknologi _Computer Vision_, keluarga dapat memantau kesehatan anak secara mandiri dari rumah tanpa perlu ke klinik. Ini membantu akses kesehatan yang lebih merata, terutama di daerah terpencil atau yang sulit dijangkau.
 
-##### 3. Kemudahan untuk Tenaga Kesehatan
+#### 3. Kemudahan untuk Tenaga Kesehatan
 
 Sistem ini menyediakan data real-time untuk tenaga kesehatan, yang memungkinkan intervensi cepat jika terdeteksi indikasi masalah kesehatan. Sinkronisasi data secara langsung juga mempermudah pencatatan riwayat kesehatan untuk analisis jangka panjang.
 
