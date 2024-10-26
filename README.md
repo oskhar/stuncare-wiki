@@ -18,8 +18,7 @@ Stuncare hadir dengan satu tujuan utama **menurunkan tingkat stunting di Indones
 
 Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memiliki dampak jangka panjang pada kualitas hidup anak-anak. "Stuncare" dirancang dengan pendekatan multidimensional yang mengintegrasikan alat pengukuran digital canggih, platform berbasis cloud, dan aplikasi edukasi interaktif yang didukung oleh teknologi kecerdasan buatan.
 
-> [!IMPORTANT]
-> 🌟 **Visi Kami** Mengubah masa depan kesehatan anak Indonesia dengan solusi inovatif yang mendukung pemantauan, analisis, dan intervensi kesehatan secara akurat dan efektif.
+> [!IMPORTANT] > **Visi Kami** Mengubah masa depan kesehatan anak Indonesia dengan solusi inovatif yang mendukung pemantauan, analisis, dan intervensi kesehatan secara akurat dan efektif.
 
 ## 🛠️ Layanan & Fitur Utama
 
@@ -58,7 +57,7 @@ Stunting pada balita adalah tantangan kesehatan publik di Indonesia yang memilik
 Melalui "Stuncare" kami berkomitmen untuk mencapai hasil yang nyata di seluruh wilayah Indonesia. Dengan teknologi mutakhir dan pendekatan kolaboratif, kami bertujuan untuk mempengaruhi kehidupan jutaan anak-anak dan keluarga di seluruh pelosok negeri.
 
 > [!NOTE]
-> ✨ Komitmen Kami: Membawa perubahan yang terukur dan menciptakan akses layanan kesehatan bagi setiap anak.
+> Komitmen Kami: Membawa perubahan yang terukur dan menciptakan akses layanan kesehatan bagi setiap anak.
 
 ## 📖 Dokumentasi Teknis
 
